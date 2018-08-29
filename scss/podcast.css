@@ -61,7 +61,7 @@ ul{
   padding-left: 0;
 }
 
-li{
+nav > ul > li{
   display: inline;
   margin-left: 2.5rem;
 }
@@ -82,7 +82,7 @@ a{
 }
 
 #banner{
-  background-image: url(images/background-two.jpg);
+  background-image: url(../images/background-two.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

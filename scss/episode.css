@@ -1,0 +1,25 @@
+#episode_content{
+  padding: 4rem 0;
+  margin-bottom: 4rem;
+  border-bottom: 1px solid rgb(179, 175, 175);
+}
+
+.current_episode_tumbnail{
+  display: block;
+  margin: 0 auto 2rem;
+  width: 10 rem;
+  max-width: 20%;
+  border-radius: .35rem;
+}
+
+h2{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.current-pod-descrip{
+  text-align: center;
+  font-size: .9rem;
+  line-height: 1.7;
+  color: grey;
+}
